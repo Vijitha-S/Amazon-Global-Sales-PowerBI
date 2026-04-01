@@ -1,0 +1,56 @@
+📊 Amazon Global Sales Dashboard (Power BI)
+🚀 Project Overview
+
+This project presents an interactive Amazon Global Sales Dashboard built using Power BI. It transforms raw sales data into meaningful insights, enabling users to analyze business performance across different regions, markets, and product categories.
+
+🎯 Objectives
+Analyze global sales performance
+Track key business metrics
+Identify top-performing regions and categories
+Enable data-driven decision-making
+📌 Key Features
+📈 KPI Cards: Sales, Profit, Quantity, Shipping Cost, Discounts
+🌍 Sales Analysis by Country, Market, Category, City
+📊 Interactive Visuals: Bar charts, Donut charts, Trend analysis
+🎛️ Slicers: Dynamic filtering by Market and Category
+🎨 Clean and professional dashboard design
+🛠️ Tools & Technologies
+Power BI – Data visualization & dashboard creation
+Excel / CSV – Data source
+📷 Dashboard Preview
+
+(Add your screenshot here)
+
+👉 To add image in GitHub:
+
+Upload image to repo
+Use this line:
+![Dashboard Preview](your-image-file-name.png)
+📊 Insights Gained
+Identified top-performing countries and cities
+Compared market-wise sales contribution
+Analyzed category-level performance
+Evaluated shipping methods and cost impact
+📚 What I Learned
+Data cleaning and transformation
+Creating KPIs and measures
+Designing interactive dashboards
+Applying visualization best practices
+Presenting business insights effectively
+📂 Project Structure
+📁 Amazon-Sales-Dashboard
+ ┣ 📄 Amazon_Dashboard.pbix
+ ┣ 📄 dataset.csv
+ ┗ 📄 README.md
+💡 Future Improvements
+Add time-based analysis (YoY / Monthly trends)
+Include forecasting
+Deploy dashboard to Power BI Service
+🙌 Acknowledgement
+
+This project was developed as part of a Data Analytics using Power BI workshop conducted by Tech Tip 24.
+
+📬 Contact
+
+Vijitha S
+📧 vijithas799@gmail.com
