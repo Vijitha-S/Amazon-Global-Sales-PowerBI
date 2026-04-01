@@ -1,51 +1,58 @@
 📊 Amazon Global Sales Dashboard (Power BI)
+
 🚀 Project Overview
 
-This project presents an interactive Amazon Global Sales Dashboard built using Power BI. It transforms raw sales data into meaningful insights, enabling users to analyze business performance across different regions, markets, and product categories.
+The Amazon Global Sales Dashboard is an interactive data visualization project built using Power BI. It converts raw sales data into meaningful insights, allowing users to analyze business performance across different countries, markets, and product categories.
 
 🎯 Objectives
-Analyze global sales performance
+
+Monitor overall sales performance
 Track key business metrics
-Identify top-performing regions and categories
-Enable data-driven decision-making
+Analyze sales across regions and categories
+Support data-driven decision-making
+
 📌 Key Features
-📈 KPI Cards: Sales, Profit, Quantity, Shipping Cost, Discounts
-🌍 Sales Analysis by Country, Market, Category, City
-📊 Interactive Visuals: Bar charts, Donut charts, Trend analysis
-🎛️ Slicers: Dynamic filtering by Market and Category
-🎨 Clean and professional dashboard design
+KPI Cards: Total Sales, Profit, Quantity, Shipping Cost, Discounts
+Sales Analysis by Country, Market, Category, and City
+Interactive Visualizations: Bar charts, Donut charts, Trend charts
+Dynamic Filters (Slicers) for Market and Category
+Clean and professional dashboard design
+
 🛠️ Tools & Technologies
-Power BI – Data visualization & dashboard creation
+Power BI – Dashboard creation and visualization
 Excel / CSV – Data source
+
 📷 Dashboard Preview
 
-(Add your screenshot here)
+Add your dashboard screenshot here
 
-👉 To add image in GitHub:
+![Dashboard Preview](dashboard.png)
 
-Upload image to repo
-Use this line:
-![Dashboard Preview](your-image-file-name.png)
-📊 Insights Gained
+📊 Insights
 Identified top-performing countries and cities
-Compared market-wise sales contribution
-Analyzed category-level performance
+Compared sales contribution across global markets
+Analyzed category-wise performance
 Evaluated shipping methods and cost impact
-📚 What I Learned
+
+📚 Learning Outcomes
 Data cleaning and transformation
 Creating KPIs and measures
 Designing interactive dashboards
-Applying visualization best practices
-Presenting business insights effectively
+Applying data visualization best practices
+Presenting insights clearly for business users
+
 📂 Project Structure
-📁 Amazon-Sales-Dashboard
- ┣ 📄 Amazon_Dashboard.pbix
- ┣ 📄 dataset.csv
- ┗ 📄 README.md
-💡 Future Improvements
-Add time-based analysis (YoY / Monthly trends)
-Include forecasting
-Deploy dashboard to Power BI Service
+Amazon-Global-Sales-Dashboard/
+│
+├── Amazon_Dashboard.pbix
+├── dataset.csv
+└── README.md
+
+💡 Future Enhancements
+Add time-based analysis (monthly / yearly trends)
+Implement forecasting
+Publish dashboard to Power BI Service
+
 🙌 Acknowledgement
 
 This project was developed as part of a Data Analytics using Power BI workshop conducted by Tech Tip 24.
@@ -54,3 +61,7 @@ This project was developed as part of a Data Analytics using Power BI workshop c
 
 Vijitha S
 📧 vijithas799@gmail.com
+
+⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub
